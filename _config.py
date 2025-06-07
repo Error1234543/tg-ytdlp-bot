@@ -1,17 +1,17 @@
 # Config
 class Config(object):
     # Your bot name - Required (str)
-    BOT_NAME = "public"
+    BOT_NAME = "sonic"
     # A name for users - Required (str)
     BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = [7447651332]
     # Add your telegram API ID - Required (int)
-    API_ID = 0000000
+    API_ID = "20619533"
     # Add your Telegram API HASH - Required (str)
-    API_HASH = ""
+    API_HASH = "5893568858a096b7373c1970ba05e296"
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7764590689:AAFc4kG8_8hBRjye9MdsMndgwTfEPisSohE"
     # Add telegram Log channel Id - Required (int)
     LOGS_ID = -0000000000000
     # Add main channel to subscribe - Required (int)
